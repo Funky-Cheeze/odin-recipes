@@ -1,4 +1,31 @@
 h1 {
     text-align: center;
     color: orange;
+    font-size: xxx-large;
+}
+
+p {
+    text-align: center;
+}
+
+button {
+    font-size: xx-large;
+    display:block;
+    margin: 0 auto;
+    margin-bottom: 25px;
+}
+
+ul {
+    text-align: center;
+    font-size: large;
+    display: inline;
+}
+
+ol {
+    font-size: large;
+    padding-inline-start: 35%;
+}
+
+.narf {
+    padding-bottom: 400px;
 }
