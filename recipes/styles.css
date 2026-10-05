@@ -23,7 +23,8 @@ ul {
 
 ol {
     font-size: large;
-    padding-inline-start: 35%;
+    justify-items: center;
+    text-align: center;
 }
 
 .narf {
